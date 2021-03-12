@@ -1,2 +1,2 @@
 # MetaHeuristica
-Código do ILS para problema do binpack realizado no 3 periodo
+Este trabalho apresenta o problema do bin-packing em relação aos navios de carga. Isto é, abordando a necessidade da distribuição das cargas com menor custo. Com isso, o principal objetivo é utilizar o menor número possível de contêineres para o transporte. Esse problema é solucionado através dos seguintes procedimentos heurísticos escolhidos: a utilização da heurística construtiva conhecida como Solução Gulosa para a geração da solução inicial, o uso da heurística de refinamento denominada Método da Descida (Best Improvement Method - BI) e, por último a metaheurística Iterated Local Search (ILS) para encontrar a ótima solução.
